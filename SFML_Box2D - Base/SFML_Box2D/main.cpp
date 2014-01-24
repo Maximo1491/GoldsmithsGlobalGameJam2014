@@ -5,6 +5,9 @@
 #include <SFML/Window.hpp>
 #include <sstream>
 
+
+// tourourourou
+//asdsadddd
 int main()
 {
 	//Creates a window using SFML
