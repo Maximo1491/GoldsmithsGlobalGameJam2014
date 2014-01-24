@@ -153,6 +153,8 @@ int main()
 
 		//Displays the window on screen
 		window.display();
+
+    //my comment
 	}
 
 	return 0;
