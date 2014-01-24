@@ -10,6 +10,7 @@
 //asdsadddd
 int main()
 {
+	//test
 	//Creates a window using SFML
 	sf::RenderWindow window(sf::VideoMode(800, 600, 32), "SFML Test", sf::Style::Default);
 
